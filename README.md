@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiguelAngelEc
-- 👀 I’m interested in ser progrmador
+- 👀 I’m interested in ser programador
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cualquier proyecto 
 - 📫 How to reach me 
