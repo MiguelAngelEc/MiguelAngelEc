@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Miguel Angel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?duration=6000&pause=1000&multiline=true&center=true&width=435&height=45&lines=Apasionado+por+la+programación;Aprendiendo+Python+💻;Buscando+colaborar+en+proyectos+geniales!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Apasionado+por+la+programación;Aprendiendo+Python+💻;Buscando+colaborar+en+proyectos+geniales!&duration=6000&pause=1000&delete=true" alt="Typing SVG" />
 </p>
 
 ---
