@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋, soy Miguel Angel</h1>
 
-
----
-
 ## 👨‍💻 Sobre mí
 
 - 💻 Interesado en convertirme en **Programador**
